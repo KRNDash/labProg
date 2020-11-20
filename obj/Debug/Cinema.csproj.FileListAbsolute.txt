@@ -1,0 +1,18 @@
+E:\Универ\Cinema\bin\Debug\Cinema.exe.config
+E:\Универ\Cinema\bin\Debug\Cinema.exe
+E:\Универ\Cinema\bin\Debug\Cinema.pdb
+E:\Универ\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+E:\Универ\Cinema\obj\Debug\Cinema.Form1.resources
+E:\Универ\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+E:\Универ\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+E:\Универ\Cinema\obj\Debug\Cinema.exe
+E:\Универ\Cinema\obj\Debug\Cinema.pdb
+E:\Универ\Технология программирования\Лаба 4\Cinema\bin\Debug\Cinema.exe.config
+E:\Универ\Технология программирования\Лаба 4\Cinema\bin\Debug\Cinema.exe
+E:\Универ\Технология программирования\Лаба 4\Cinema\bin\Debug\Cinema.pdb
+E:\Универ\Технология программирования\Лаба 4\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+E:\Универ\Технология программирования\Лаба 4\Cinema\obj\Debug\Cinema.Form1.resources
+E:\Универ\Технология программирования\Лаба 4\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+E:\Универ\Технология программирования\Лаба 4\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+E:\Универ\Технология программирования\Лаба 4\Cinema\obj\Debug\Cinema.exe
+E:\Универ\Технология программирования\Лаба 4\Cinema\obj\Debug\Cinema.pdb
